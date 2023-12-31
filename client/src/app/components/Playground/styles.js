@@ -26,4 +26,4 @@ export const styles = {
     bg-gray
     focus:outline-none
   `,
-}
+};
